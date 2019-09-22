@@ -30,7 +30,7 @@ To send to a Github repository, run
 ```git push -u origin master```  
 
 For future pushes to Github, run  
-```git commit -am "commit message"  
+```git commit -am "commit message"```  
 ```git push origin master```  
 
 ## Deploy app
