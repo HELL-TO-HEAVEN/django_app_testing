@@ -1,6 +1,7 @@
-# DeepLab
+# Testing web app building using Django
 
-DeepLab is an application which streamlines acquisition and analysis of data from laboratory experiments by enabling direct connectivity with instuments and data from the browser. This README documents the use and construction of the application.
+This readme follows instructions for building a web app using Django from https://docs.djangoproject.com/en/2.2/intro/tutorial01/
+
 
 
 # Building the project 
