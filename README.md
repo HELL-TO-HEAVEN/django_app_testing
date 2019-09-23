@@ -1,13 +1,13 @@
 # DeepLab
 
-DeepLab is an application which streamlines acquisition and analysis of data from laboratory experiments.
+DeepLab is an application which streamlines acquisition and analysis of data from laboratory experiments by enabling direct connectivity with instuments and data from the browser. This README documents the use and construction of the application.
 
 
 # Building the project 
 
 ## Initialize the project
 
-To activate virtual environment, navigate to project folder and run  
+To activate virtual environment named _env_, navigate to project folder (```cd deeplab```) and run  
 ```source env/bin/activate```  
 
 To deactivate, run  
@@ -114,7 +114,7 @@ For future pushes to Github, run
 To run the project on the on the testing server, navigate to the inner project filder which contains _manage.py_ and run  
 ```python manage.py runserver```  
 
-To view administrator page, go to _/admin_  
+To view administrator page, go to  the /admin page at the host address.  
 
 Before deploying, change ```DEBUG = True``` to ```DEBUG = False``` in _settings.py_.  
 
